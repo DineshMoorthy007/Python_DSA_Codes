@@ -6,7 +6,7 @@ This repository showcases **common daily coding scenarios** solved using fundame
 
 ---
 
-## 🎯 **About This Repository**
+## About This Repository
 
 Data structures aren't just theoretical concepts – they solve real problems every day! This repository contains:
 
@@ -17,7 +17,7 @@ Data structures aren't just theoretical concepts – they solve real problems ev
 
 ---
 
-## 📂 **Code Examples**
+## Code Examples
 
 ### Queue Operations (Deque)
 - **Breadth-First Task Management** - Managing tasks using FIFO (First-In-First-Out) principles with `collections.deque`
@@ -31,7 +31,7 @@ Data structures aren't just theoretical concepts – they solve real problems ev
 
 ---
 
-## 🔧 **Core Data Structures Covered**
+## Core Data Structures Covered
 
 - **Arrays & Lists**: Dynamic arrays, list operations, and comprehensions
 - **Queues & Deques**: FIFO operations, task scheduling, sliding windows
@@ -42,7 +42,7 @@ Data structures aren't just theoretical concepts – they solve real problems ev
 
 ---
 
-## 💡 **Why This Repository?**
+## Why This Repository?
 
 - **Learn by Doing**: See data structures solving actual problems
 - **Daily Practice**: Regular coding examples to build muscle memory
@@ -51,7 +51,7 @@ Data structures aren't just theoretical concepts – they solve real problems ev
 
 ---
 
-## 🚀 **Getting Started**
+## Getting Started
 
 1. Clone this repository
    ```bash
@@ -70,25 +70,40 @@ Data structures aren't just theoretical concepts – they solve real problems ev
 
 ---
 
-## 📚 **Learning Resources**
+## Learning Resources
 
-Check out the [Basic_Resources](./Basic_Resources) document for curated learning materials including:
-- LeetCode problem sets and study plans
-- GeeksforGeeks tutorials and interview preparation
-- Data structures and algorithms courses
+This repository references curated learning materials to support your learning journey:
+
+- **LeetCode**: Problem sets and study plans for practicing data structures and algorithms
+  - Focus on array, string, linked list, and queue problems
+  - Try the "Data Structures" study plan for structured learning
+
+- **GeeksforGeeks**: Comprehensive tutorials and interview preparation
+  - Data Structures guides with implementation examples
+  - Interview preparation materials and coding challenges
+
+- **Online Courses**: Recommended platforms for in-depth learning
+  - Udemy: Data Structures and Algorithms courses
+  - Coursera: Computer Science fundamentals specializations
+  - YouTube: Free tutorial channels for visual learning
+
+- **Practice Resources**: Build your coding skills through regular practice
+  - HackerRank for interactive coding challenges
+  - CodeSignal for real-world coding problems
+  - Project Euler for mathematical and algorithmic thinking
 
 ---
 
-## 🤝 **Contributing**
+## Contributing
 
 Feel free to contribute your own daily coding examples that demonstrate data structure concepts in practical scenarios!
 
 ---
 
-## 📝 **License**
+## License
 
 This project is open source and available for learning purposes.
 
 ---
 
-**Happy Coding! 🎉**
+**Happy Coding!**
