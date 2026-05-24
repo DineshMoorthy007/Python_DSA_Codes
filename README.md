@@ -1,8 +1,8 @@
-# Daily Data Structures Code
+# Python Data Structures Code
 
-Welcome to **Daily Data Structures Code** – a collection of practical, real-world examples demonstrating how data structure concepts are used in everyday programming tasks!
+Welcome to **Python Data Structures Code** – a collection of practical, real-world examples demonstrating how data structure concepts are used in everyday programming tasks!
 
-This repository showcases **common daily coding scenarios** solved using fundamental data structures, making abstract concepts concrete and immediately applicable.
+This repository showcases **common python coding scenarios** solved using fundamental data structures, making abstract concepts concrete and immediately applicable.
 
 ---
 
@@ -55,8 +55,8 @@ Data structures aren't just theoretical concepts – they solve real problems ev
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/DineshMoorthy007/Data_Structures_100_days.git
-   cd Data_Structures_100_days
+   https://github.com/DineshMoorthy007/Python_DSA_Codes.git
+   cd Python_DSA_Codes
    ```
    > Note: Repository name reflects its origin as a 100-day challenge, now evolved into a daily data structures code collection
 
