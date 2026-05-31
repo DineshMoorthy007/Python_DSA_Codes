@@ -19,26 +19,54 @@ Data structures aren't just theoretical concepts – they solve real problems ev
 
 ## Code Examples
 
-### Queue Operations (Deque)
-- **Breadth-First Task Management** - Managing tasks using FIFO (First-In-First-Out) principles with `collections.deque`
-- **Efficient Sliding Window Average** - Real-time data processing using fixed-size deque for moving averages
+### Stack Operations (LIFO - Last-In-First-Out)
+- **LIFO_Stack_Wrapper** - A complete Stack class implementation with push, pop, and peek operations
+- **Balanced_Brackets_Validator** - Validates balanced parentheses and brackets using stack-based approach
+- **Transaction_engine_with_undo_history** - Stack-based transaction management system with undo capability
 
-### List Operations
-- **List Comprehensions with Conditional Logic** - Elegant data transformation and filtering
+### Queue Operations (Deque & FIFO - First-In-First-Out)
+- **Breadth-First-Task-Management** - Managing tasks using FIFO principles with `collections.deque`
+- **Efficient_Sliding_Window_Average** - Real-time data processing using fixed-size deque for moving averages
+- **Priority_Task_Queue** - Priority queue implementation using heap structure for task scheduling
 
-### Additional Resources
-- **Basic Resources** - Curated learning materials from LeetCode and GeeksforGeeks
+### Hash Table & Dictionary Operations
+- **Automated_Grouping_Pattern** - Organizing categories using `defaultdict` for efficient inventory management
+- **Extensible_Command_Router** - Dictionary-based command routing and dispatch system
+- **Transforming_Filtering_Mapped_Data** - Data filtering and transformation with dictionary comprehensions
+
+### List & Array Operations
+- **List_Comprehensions_with_Conditional_Logic** - Elegant data transformation and filtering using comprehensions
+- **Three_Pointer_Pivot** - Partition array using three-pointer technique for efficient sorting
+
+### Linked Lists & Node-Based Structures
+- **Node_Based_Pointer_Chain** - Linked list implementation with pointer-based traversal
+- **Clean_Coordinate_Mapping** - Using `namedtuple` for clean and immutable coordinate structures
+
+### Graph & Network Operations
+- **Simple_Social_Network_Graph** - Graph representation and adjacency list for social networks
+- **Friends_of_Friends_Finder** - Graph traversal algorithms for social network analysis
+
+### Circular Buffer & Ring Data Structures
+- **Fixed_Size_Ring_Buffer** - Implementing circular buffer with fixed size and automatic wraparound
+
+### Dynamic Programming & Optimization
+- **Memoized_Fibonacci_Sequence** - Optimizing recursive algorithms with memoization dictionary
+- **Staircase_Problem** - Dynamic programming solution for combinatorial problems
 
 ---
 
 ## Core Data Structures Covered
 
-- **Arrays & Lists**: Dynamic arrays, list operations, and comprehensions
-- **Queues & Deques**: FIFO operations, task scheduling, sliding windows
-- **Strings**: Text manipulation and processing
-- **Hash Tables**: Fast lookups and data organization
-- **Trees & Graphs**: Hierarchical data and network traversal (coming soon)
-- **Stacks**: LIFO operations for parsing and backtracking (coming soon)
+- **Arrays & Lists**: Dynamic arrays, list operations, list comprehensions, and array partitioning
+- **Stacks**: LIFO operations, bracket validation, transaction management with undo history
+- **Queues & Deques**: FIFO operations, task scheduling, priority queues, sliding window algorithms
+- **Hash Tables & Dictionaries**: Fast lookups, defaultdict patterns, command routing, data transformation
+- **Linked Lists**: Node-based pointer chains and traversal
+- **Graphs**: Adjacency lists, social networks, graph traversal algorithms
+- **Heaps**: Priority queue implementation for task scheduling
+- **Circular Buffers**: Fixed-size ring buffers with automatic wraparound
+- **Dynamic Programming**: Memoization, optimization techniques, combinatorial problems
+- **Named Tuples & Structures**: Clean data modeling for coordinates and structured data
 
 ---
 
