@@ -4,6 +4,15 @@ A practical collection of standalone Python scripts for learning **data structur
 
 Each script focuses on one concept and is designed to be run directly.
 
+## Quick navigation
+
+- [Why this repository](#why-this-repository)
+- [Repository structure](#repository-structure)
+- [Topic map (sample files)](#topic-map-sample-files)
+- [Quick start](#quick-start)
+- [Suggested learning path](#suggested-learning-path)
+- [How to contribute](#how-to-contribute)
+
 ## Why this repository
 
 - Beginner-friendly, readable implementations
@@ -66,6 +75,18 @@ Each script focuses on one concept and is designed to be run directly.
 python Balanced_Brackets_Validator.py
 python Grid_Based_A*_Pathfinding_Engine.py
 python Production_Grade_LRU_K_Cache_Engine.py
+```
+
+### Run any script
+
+```bash
+python <script_name>.py
+```
+
+Example:
+
+```bash
+python Fixed_Size_Ring_Buffer.py
 ```
 
 ## Suggested learning path
